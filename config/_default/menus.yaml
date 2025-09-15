@@ -1,0 +1,88 @@
+leftnav:
+- identifier: 5d0e9fae-2afa-4ca9-943a-590a0a13cec7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cc70f3ae-0a88-461a-bd1b-0c422926a39d
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: ac1073de-5c6e-4ed6-a9f7-be6c8a66e769
+  name: Lab Manual
+  pageRef: /pages/lab-manual
+  weight: 30
+- identifier: 33696060-cef2-43e4-bd32-f8b93b42a643
+  name: 'Lab Objective 1: Reagent Preparation'
+  pageRef: /pages/lab-objective-1-reagent-preparation
+  weight: 40
+- identifier: 37e5bc08-d804-47da-b76c-631288ab6402
+  name: 'Lab Objective 2: Mutagenesis of the ClpX Gene'
+  pageRef: /pages/lab-objective-2-mutagenesis-of-the-clpx-gene
+  weight: 50
+- identifier: 6133d8aa-cd33-4568-974a-b5dcacc7f8cf
+  name: 'Lab Objective 3: Expression and Purification of Mutant ClpX'
+  pageRef: /pages/lab-objective-3-expression-and-purification-of-mutant-clpx
+  weight: 60
+- identifier: 4573910f-30ad-4c36-aa52-a56c2eeb9679
+  name: 'Lab Objective 4: Analysis of ClpX Protein Purification'
+  pageRef: /pages/lab-objective-4-analysis-of-clpx-protein-purification
+  weight: 70
+- identifier: f8b4b3a1-8658-45be-b7c4-b92a89d347ea
+  name: 'Lab Objective 5: Analysis of mutant ClpX ATPase activity'
+  pageRef: /pages/lab-objective-5-analysis-of-mutant-clpx-atpase-activity
+  weight: 80
+- identifier: 6802f158-7593-4456-9429-fe2319433034
+  name: Lab Day 1
+  pageRef: /pages/lab-day-1
+  parent: 33696060-cef2-43e4-bd32-f8b93b42a643
+  weight: 10
+- identifier: 17eeaea9-2851-47eb-ab71-d178b067f49d
+  name: Lab Day 2
+  pageRef: /pages/lab-day-2
+  parent: 37e5bc08-d804-47da-b76c-631288ab6402
+  weight: 10
+- identifier: 25ddbba0-ccca-4bf7-88a6-5d3463e546ca
+  name: Lab Day 3
+  pageRef: /pages/lab-day-3
+  parent: 37e5bc08-d804-47da-b76c-631288ab6402
+  weight: 20
+- identifier: 554d55a2-6f35-49d3-a0c5-a096eff654f5
+  name: Lab Day 4
+  pageRef: /pages/lab-day-4
+  parent: 37e5bc08-d804-47da-b76c-631288ab6402
+  weight: 30
+- identifier: cfb1d979-9bbb-4f38-92c8-ee31e6c11f48
+  name: Lab Day 5
+  pageRef: /pages/lab-day-5
+  parent: 37e5bc08-d804-47da-b76c-631288ab6402
+  weight: 40
+- identifier: 00bb0dab-b59f-4553-b927-d764fee51959
+  name: Lab Day 6
+  pageRef: /pages/lab-day-6
+  parent: 6133d8aa-cd33-4568-974a-b5dcacc7f8cf
+  weight: 10
+- identifier: 58cbc5a5-4e3b-4c14-8455-b94429b36f8f
+  name: Lab Day 6.5
+  pageRef: /pages/lab-day-65
+  parent: 6133d8aa-cd33-4568-974a-b5dcacc7f8cf
+  weight: 20
+- identifier: 80ea8c55-2ffa-4338-a9da-40a1b9b350be
+  name: Lab Day 7
+  pageRef: /pages/lab-day-7
+  parent: 6133d8aa-cd33-4568-974a-b5dcacc7f8cf
+  weight: 30
+- identifier: fc198730-0a04-4c41-a1cc-4685e27b625a
+  name: Lab Day 8
+  pageRef: /pages/lab-day-8
+  parent: 4573910f-30ad-4c36-aa52-a56c2eeb9679
+  weight: 10
+- identifier: 7ee9bff4-d4d2-4a41-a6bf-203b80668ff8
+  name: Lab Day 9
+  pageRef: /pages/lab-day-9
+  parent: 4573910f-30ad-4c36-aa52-a56c2eeb9679
+  weight: 20
+- identifier: d5c3ac89-a751-448e-b539-a950047191e3
+  name: Lab Day 10
+  pageRef: /pages/lab-day-10
+  parent: f8b4b3a1-8658-45be-b7c4-b92a89d347ea
+  weight: 10
