@@ -28,7 +28,7 @@ Please note: The on-campus version of 7.002 also involves meeting with guest pro
 
 ### Laboratory Notebooks
 
-Maintaining an updated record of your daily lab work is an essential component of research. Each student must maintain an electronic laboratory notebook using the [LabArchives](https://www.labarchives.com/) platform. You will sign up for a notebook during the first class meeting.
+Maintaining an updated record of your daily lab work is an essential component of research. Each student must maintain an electronic laboratory notebook using the {{% resource_link "6e3abc1f-7bdd-43ed-86ac-09fbd36a5377" "LabArchives" %}} platform. You will sign up for a notebook during the first class meeting.
 
 ### Laboratory Manuals
 
