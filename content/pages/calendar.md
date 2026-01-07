@@ -10,9 +10,9 @@ uid: cc70f3ae-0a88-461a-bd1b-0c422926a39d
 
 **Lecture:** Class logistics, overview of ClpX, MITx enrollment, electronic notebook exercise, and complete MITx *Start of Semester* units.
 
-**Lab:** Computer lab; please see active learning module publication:
+**Lab:** Computer lab, described in active learning module publication:
 
- 
+Chu, E.W.K. "[Database Query to Prove Your Intuitions on Gene Predictions and Genetic Mutations](https://doi.org/10.37590/able.v45.art4)." *Advances in Biology Laboratory Education*, 2025, Volume 45.
 
 ### Week 2:
 
